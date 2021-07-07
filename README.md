@@ -1,5 +1,7 @@
 # screenshottert
-easy tool to create quick screenshots using chrome and a list of domain names
+Easy tool to create quick screenshots using chrome and a list of domain names, to store when doing reconnaisance on a company/domain name.
+
+Prerequisites: Chrome installed on your computer, as administrator, user-only versions (e.g. installed in the profile of a user) will not be supported.
 
 How to use:
 
@@ -8,17 +10,17 @@ Best way to do this is either use Amass (https://github.com/OWASP/Amass) or Subl
 
 save to a txt file, having each line with one domain name e.g filename google.txt.
 
-Contents of google.txt
+Contents of google.txt:
 
 google.com
 mail.google.com
 
-For execution 
 
-C:\>screenshottert google.txt
 
 For auditing purposes it will log the date and time of screenshotting in a log file, the logfile name is created is named after the filename you use it.
 In this example it will be google.txt-screenshottert.log
+
+
 
 Example output:
 
@@ -28,24 +30,6 @@ ________________________________________________________________________________
 SCREENSHOTTERT, making screenshots easy since 2021 (c) GM
 ____________________________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________________________
-"                                               `.-::/+++h.    "
-"                                         .:/oyhddmmmmmmmmo    "
-"                                      -ohdmmmmmmmmmddmmmmd.   "
-"                                    :hmmmmhmmmmhoy:`+ymmmmy   "
-"                                   +dydy+.ohs+.` .   /dydmms` "
-"                                  `+//.`  .`  ./yy`  `.``dmh+ "
-"                                  ````..:/osso/.      -dms`   "
-"                                   `+++yms:.``        odmmm.  "
-"                                       `hm.          `-hmmmms "
-"                                       /dho++-    ./ydmmmmmmm:"
-"                                       .:::::`   /dmmmmmmddmmd-"
-"                                   .+yddddddy+./mmmmmmmh-.-:/- "
-"                                   .dmmmmmmmmmmddmmmmmms`     "
-"                                   /mmmmmmmmmmmmmmmdsh:      "
-"                                   `dmmmmmmmmmmmmmh-``      "
-"                                    /mmmmmmmmdhmms.        "
-"                                     sdydmmmm/`s/          "
-"                                     `- .:+yo     "
                            CAVEMEN Pandemic Edition 2021
 ____________________________________________________________________________________________________________________________
 ____________________________________________________________________________________________________________________________
