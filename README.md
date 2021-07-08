@@ -12,7 +12,7 @@ save to a txt file, having each line with one domain:
 
 **EXAMPLE Contents of google.txt:**
 
-google.com
+google.com<BR>
 mail.google.com
 
 **LOGGING:**
