@@ -10,21 +10,20 @@ Best way to do this is either use Amass (https://github.com/OWASP/Amass) or Subl
 
 save to a txt file, having each line with one domain: 
 
-**EXAMPLE**
+**EXAMPLE:**
 
 Contents of google.txt:
 
 google.com
 mail.google.com
 
-**LOGGING**
+**LOGGING:**
 
 For auditing purposes it will log the date and time of screenshotting in a log file, the logfile name is created is named after the filename you use it.
 In this example it will be google.txt-screenshottert.log
 
 
-**Example output:**
-
+**EXAMPLE OUTPUT:**
 
 C:\screenshottert>screenshottert google.txt
 ____________________________________________________________________________________________________________________________
