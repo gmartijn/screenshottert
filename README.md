@@ -10,9 +10,7 @@ Best way to do this is either use Amass (https://github.com/OWASP/Amass) or Subl
 
 save to a txt file, having each line with one domain: 
 
-**EXAMPLE:**
-
-Contents of google.txt:
+**EXAMPLE Contents of google.txt:**
 
 google.com
 mail.google.com
