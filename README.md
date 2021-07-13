@@ -42,12 +42,12 @@ starting at 20:01:05,03 wo 07-07-2021
 ____________________________________________________________________________________________________________________________
 Creating HTTPS screenshots
 ____________________________________________________________________________________________________________________________
-CREATING screenshot D:\Gideon\tools\screenshottert\HTTPS-google.com-07-07-2021.png
+CREATING screenshot D:\Gideon\tools\screenshottert\HTTPS-google.com-07-07-2021.png<BR>
 CREATING screenshot D:\Gideon\tools\screenshottert\HTTPS-mail.google.com-07-07-2021.png
 ____________________________________________________________________________________________________________________________
 Creating HTTP screenshots
 ____________________________________________________________________________________________________________________________
-CREATING screenshot D:\Gideon\tools\screenshottert\HTTPS-google.com-07-07-2021.png
+CREATING screenshot D:\Gideon\tools\screenshottert\HTTPS-google.com-07-07-2021.png<BR>
 CREATING screenshot D:\Gideon\tools\screenshottert\HTTPS-mail.google.com-07-07-2021.png
 ____________________________________________________________________________________________________________________________
 
