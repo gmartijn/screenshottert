@@ -1,5 +1,5 @@
 # Screenshottert
-Easy tool to create quick screenshots using chrome and a list of domain names, to store when doing reconnaisance on a company/domain name.
+Easy tool created in Windows batch to create quick screenshots using chrome and a list of domain names, to store when doing reconnaisance on a company/domain name.
 
 Prerequisites: Chrome installed on your computer, as administrator, user-only versions (e.g. installed in the profile of a user) will not be supported.
 
